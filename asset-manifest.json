@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactApp/static/css/main.a1e10541.css",
+    "main.js": "/reactApp/static/js/main.b568c9d5.js",
+    "static/media/bg12.jpg": "/reactApp/static/media/bg12.aa1cea2305749459c7d4.jpg",
+    "static/media/what-we-do-2.jpg": "/reactApp/static/media/what-we-do-2.3f7588f0ef9c18851490.jpg",
+    "static/media/what-we-do.jpg": "/reactApp/static/media/what-we-do.00827a4730b601336359.jpg",
+    "static/media/what-we-do-1.jpg": "/reactApp/static/media/what-we-do-1.b190c2256588edb19fb3.jpg",
+    "static/media/image-2.png": "/reactApp/static/media/image-2.37ca7ff0a16b859a89dc.png",
+    "static/media/image-1.png": "/reactApp/static/media/image-1.84cf626578dd5a30bcb1.png",
+    "static/media/nucleo-outline.eot": "/reactApp/static/media/nucleo-outline.56814a6b7240045e1494.eot",
+    "static/media/nucleo-outline.ttf": "/reactApp/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
+    "static/media/nucleo-outline.woff": "/reactApp/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
+    "static/media/nucleo-outline.woff2": "/reactApp/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
+    "static/media/image-6.jpg": "/reactApp/static/media/image-6.0b12c2bb7df77ebe91ca.jpg",
+    "static/media/image-4.jpg": "/reactApp/static/media/image-4.56d9110db2ee6744ea66.jpg",
+    "index.html": "/reactApp/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a1e10541.css",
+    "static/js/main.b568c9d5.js"
+  ]
+}
