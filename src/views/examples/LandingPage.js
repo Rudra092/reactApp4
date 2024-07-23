@@ -303,15 +303,6 @@ function LandingPage() {
                     ></img>
                     <h4 className="title">Divya Devapathni</h4>
                     <p className="category text-info">Principal HRBP</p>
-                    <p className="description">
-                      You can write here details about one of your team members.
-                      You can give more details about what they do. Feel free to
-                      add some{" "}
-                      <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                        links
-                      </a>{" "}
-                      for people to be able to follow them outside the site.
-                    </p>
                     <Button
                       className="btn-icon btn-round"
                       color="info"
@@ -412,15 +403,6 @@ function LandingPage() {
                     ></img>
                     <h4 className="title">Alagu Rajendra Pandian</h4>
                     <p className="category text-info">Associate Director, L&D</p>
-                    <p className="description">
-                      You can write here details about one of your team members.
-                      You can give more details about what they do. Feel free to
-                      add some{" "}
-                      <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                        links
-                      </a>{" "}
-                      for people to be able to follow them outside the site.
-                    </p>
                     <Button
                       className="btn-icon btn-round"
                       color="info"
