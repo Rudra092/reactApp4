@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactApp4/static/css/main.b8fbc92f.css",
-    "main.js": "/reactApp4/static/js/main.15c3d542.js",
+    "main.js": "/reactApp4/static/js/main.20601a03.js",
     "static/media/bg12.jpg": "/reactApp4/static/media/bg12.aa1cea2305749459c7d4.jpg",
     "static/media/what-we-do-2.jpg": "/reactApp4/static/media/what-we-do-2.3f7588f0ef9c18851490.jpg",
     "static/media/what-we-do.jpg": "/reactApp4/static/media/what-we-do.00827a4730b601336359.jpg",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.b8fbc92f.css",
-    "static/js/main.15c3d542.js"
+    "static/js/main.20601a03.js"
   ]
 }
